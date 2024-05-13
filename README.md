@@ -1,4 +1,4 @@
-# Deploy a WordPress Website on AWS
+# Deploying a WordPress Website on AWS
 
 ## Project Overview
 This project involves hosting a WordPress website on AWS using the management console. Including different resources for enhanced reliability, scalability and security.
