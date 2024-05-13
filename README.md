@@ -20,7 +20,7 @@ URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https
 - **Installed WordPress**
 - **Route 53**: Registered the domain name and set up DNS records.
 - **Certificate Manager**: Secures application communications via TLS certificates. 
-- **Auto Scaling Group**: Automatically manages EC2 instances, ensuring website availability, scalability, fault tolerance, and elasticity.
+- **Auto Scaling Group**: Automatically manages EC2 instances, ensuring website availability, scalability, fault tolerance and elasticity.
 - **Simple Notification Service (SNS)**: Configured to alert about activities within the Auto Scaling Group.
 
 ## Reference Diagram
