@@ -25,7 +25,7 @@ URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https
 
 ## Reference Diagram
 
-<img src="2._Host_a_WordPress_Website_on_AWS.png" width="600">
+<img src="2._Host_a_WordPress_Website_on_AWS.png" width="400">
 
 ## Contributors
 
