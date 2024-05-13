@@ -25,9 +25,10 @@ URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https
 
 ## Reference Diagram
 
-<div style="text-align:center;">
+<div style="display: flex; justify-content: center;">
     <img src="2._Host_a_WordPress_Website_on_AWS.png" width="200" height="200">
 </div>
+
 
 
 <img src="2._Host_a_WordPress_Website_on_AWS.png" width="300">
