@@ -2,7 +2,8 @@
 
 ## Project Overview
 This project involves hosting a WordPress website on AWS using the management console. Including different resources for enhanced reliability, scalability and security.
-URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https://www.cristinawordpressproject.com/))
+
+<img src="WordPressProject.png" width="700">
 
 ## Architecture
 - **IAM User**: For security reasons, it is best practice not to use the root user but instead creating IAM User with the appropriate permissions.
@@ -31,3 +32,8 @@ URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https
 
 - [Cristina Gonzalez Marrero](https://github.com/cristicristi7)
 - Azeez Salu: Course Instructor on Aos Note, https://www.aosnote.com/
+
+## Notes
+
+- I have temporarily taken down the URL of my website to avoid incurring substantial costs.
+- URL to my project: ([Cristina Gonzalez Marrero - WordPress Website on AWS](https://www.cristinawordpressproject.com/))
